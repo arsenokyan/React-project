@@ -1,0 +1,25 @@
+.slick-arrow.slick-next{
+      display: none !important;
+     }
+     .slick-arrow.slick-prev{
+      display: none !important;
+     }
+     
+     div > h4{
+      margin-left: 5vw;
+      margin-top: 5vw;
+      margin-bottom: 2vw;
+      font-size: 3vw;
+      color:#195473
+     }
+     
+     div > .slideA {
+      margin-left: 5vw;
+      margin-top: -3vw;
+      color: rgb(255, 255, 255);
+      font-size: 2vw;
+      background: #195473;
+      text-decoration: none;
+      padding: 1vw;
+     }
+    
